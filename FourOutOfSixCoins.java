@@ -1,3 +1,5 @@
+package se1c2;
+
 import java.util.Stack;
 
 class VariableCoins{
